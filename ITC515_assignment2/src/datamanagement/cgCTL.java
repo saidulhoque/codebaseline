@@ -13,7 +13,6 @@ public class cgCTL {
 	public void execute() {
 		CGUI = new cgUI(this);
 		CGUI.setState1(false);
-
 		CGUI.setState2(false);
 		CGUI.setState3(false);
 		CGUI.setState4(false);
