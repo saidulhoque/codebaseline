@@ -1,6 +1,12 @@
 # Group 3 Project Codes
 This is the project code for Group 3
-----
+
+## Help for Github
+### IMPORTANT!
+Everyone, please set up git on your labtop~
+
+[Git Setup Guide](https://help.github.com/articles/set-up-git/ "Git Setup")
+
 #How to use this code
 ### Init with Intellij IDEA 15
 1. Import project select folder "ITC515_assignment2", click `OK`.
