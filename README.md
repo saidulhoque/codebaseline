@@ -7,6 +7,12 @@ Everyone, please set up git on your labtop~
 
 [Git Setup Guide](https://help.github.com/articles/set-up-git/ "Git Setup")
 
+For someone does not familiar with git commands
+
+GUI Tool Suggests:
+
+**SourceTree**  [Download](https://www.sourcetreeapp.com "SourceTree")
+
 #How to use this code
 ### Init with Intellij IDEA 15
 1. Import project select folder "ITC515_assignment2", click `OK`.
