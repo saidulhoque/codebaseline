@@ -38,4 +38,5 @@ Good luck.
 Please click **File -> Project Structure**, Under **Project Settings** select **Project**,
 Check `Project Language Level`, make sure it is 7 or higher.
 
+#Class Diagram
 ![Class Diagram](https://github.com/ITC515Group3/codebaseline/blob/master/Diagrams/classDiagram.png)
